@@ -9,4 +9,3 @@ def speak_to_grandma(string)
   end
 end 
 
-def speak_to_grandma
